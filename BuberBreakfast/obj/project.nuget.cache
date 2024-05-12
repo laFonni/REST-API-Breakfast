@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AxY4defCI6AG51C20BEARg1UBJGuuRv0Aen9HAGE61EpzG5Bob1aLsyHzoclgWRIxQMPhALkcAoRlV5x+xgTXg==",
+  "success": true,
+  "projectFilePath": "D:\\Studia\\Semestr4\\PZ2\\fCC\\Industry Level REST API using .NET 6 – Tutorial for Beginners\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

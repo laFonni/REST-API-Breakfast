@@ -1,0 +1,11 @@
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.deps.json
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.dll
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.pdb
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.dll
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\refint\BuberBreakfast.Contracts.dll
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.pdb
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\ref\BuberBreakfast.Contracts.dll
