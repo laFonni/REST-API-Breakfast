@@ -28,11 +28,10 @@ public class BreakfastController : ApiController
 
         ErrorOr<Created> createBreakfastResult = _breakfastService.CreateBreakfast(breakfast);
 
-        if (createBreakfastResult.IsError)
-        {
-            return Problem(createBreakfastResult.Errors);
-        };
-        return CreatedAsGetBreakfast(breakfast);
+        return createBreakfastResult.Match(
+          created => CreatedAsGetBreakfast(breakfast),
+          errors => Problem(errors)
+        );
     }
 
 

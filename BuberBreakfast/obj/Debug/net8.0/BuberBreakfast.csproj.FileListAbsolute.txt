@@ -28,3 +28,4 @@ D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for
 D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.genruntimeconfig.cache
 D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\ref\BuberBreakfast.dll
 D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast\bin\Debug\net8.0\ErrorOr.dll
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.sourcelink.json

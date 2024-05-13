@@ -9,3 +9,4 @@ D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for
 D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\refint\BuberBreakfast.Contracts.dll
 D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.pdb
 D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\ref\BuberBreakfast.Contracts.dll
+D:\Studia\Semestr4\PZ2\fCC\Industry Level REST API using .NET 6 – Tutorial for Beginners\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.sourcelink.json
